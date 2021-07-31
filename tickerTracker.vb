@@ -34,7 +34,7 @@ Sub tickerTracker()
         Dim lastClose As Double
         Dim summDiff As Double
         Dim sumPerc As Double
-        Dim currVol As LongLong
+        Dim currVol As Double
         
         '****************************
         'Identify last row and column of data
